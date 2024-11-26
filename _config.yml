@@ -22,7 +22,7 @@ description: >- # used by seo meta and the atom feed
   Porfolio en el que subiré mis trabajillos en el mundo de la Ciberseguridad. Subiré tanto WriteUps de CTFs, como Informes, algunas opiniones... lo que me apetezca.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://cybermemillo.github.io"
 
 github:
   username: Cybermemillo # change to your GitHub username
