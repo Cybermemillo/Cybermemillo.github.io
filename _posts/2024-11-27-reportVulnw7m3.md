@@ -1,11 +1,10 @@
 ---
-title: Vulnerability analysis of Windowsplotable7 and Metasploitable3.
+title: Vulnerability analysis of Windowsplotable7 and Metasploitable3
 description: A report on vulnerability analysis of Windowsplotable7 and Metasploitable3, 10 of the most serious vulnerabilities that these machines contain are analyzed, and solutions to these are offered.
 date: 2024-11-27 9:10
-categories: [Reports, Vulnerability Report].
-tags: [Metaesploitable3, Windowsplotable7, Vulnerability Analysis, English, Reports, Inglés]
+categories: [Reports, Vulnerability Reports]
+tags: [Metaesplotable3, Windowsplotable7, Vuln analysis, English, Reports]
 ---
-
 # Introduction
 
 The present work aims to perform an exhaustive analysis of vulnerabilities in two specific laboratory systems, known as Windowsplotable7 and Metasploitable3. Both environments are designed for teaching and practicing cybersecurity techniques, making them ideal platforms for vulnerability identification and assessment. 
