@@ -1,9 +1,9 @@
 ---
-title: Análisis de vulnerabilidades Windowsplotable7 y Metasploitable3
-description: Un informe sobre el análisis de vulnerabilidades de Windowsplotable7 y Metasploitable3, se analizan 10 de las vulnerabilidades mas graves que estas maquinas contienen, y se ofrecen soluciones a estas.
-date: 2024-11-26 17:10
-categories: [Informes, Informe Vulnerabilidades]
-tags: [Metaesplotable3, Windowsplotable7, Analisis de Vulnerabilidades, Español, Spanish, Informes]
+title: Vulnerability analysis of Windowsplotable7 and Metasploitable3
+description: A report on vulnerability analysis of Windowsplotable7 and Metasploitable3, 10 of the most serious vulnerabilities that these machines contain are analyzed, and solutions to these are offered.
+date: 2024-11-27 9:10
+categories: [Reports, Vulnerability Report].
+tags: [Metaesploitable3, Windowsplotable7, Vulnerability Analysis, English, Reports, Inglés]
 ---
 
 # Introduction
